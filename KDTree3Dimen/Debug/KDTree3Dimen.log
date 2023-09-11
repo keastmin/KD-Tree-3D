@@ -1,0 +1,7 @@
+﻿  KdTree.cpp
+D:\3학년 2학기\컴퓨터그래픽스\kdTree3Dimen_201804010김동민\KDTree3Dimen\KDTree3Dimen\KdTree.cpp(181,31): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Particle.cpp
+  source.cpp
+D:\3학년 2학기\컴퓨터그래픽스\kdTree3Dimen_201804010김동민\KDTree3Dimen\KDTree3Dimen\source.cpp(94,2): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  코드를 생성하고 있습니다...
+  KDTree3Dimen.vcxproj -> D:\3학년 2학기\컴퓨터그래픽스\kdTree3Dimen_201804010김동민\KDTree3Dimen\Debug\KDTree3Dimen.exe
